@@ -2,6 +2,7 @@ hi
 
 How do I use Git hub in my development. I am not "git aware" on where my code should be git got.
 
+and the branch. Very clever
 
 Additions 4-22-2018, 6:27pm
 "Additions 04/22/2018 @ 6;31pm." 

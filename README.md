@@ -11,3 +11,6 @@ We will eventually have links to our projects here. [For example, this...](http:
 ```python3
 print("Hello, world")
 ```
+## Getting a 404 error?
+
+Make sure you’re signed in # Playground
