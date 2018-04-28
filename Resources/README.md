@@ -1,7 +1,8 @@
-Hello Friends, and welcome to the resources folder. Here, our Meetup can share our favorite resources!
+# Team Resources
 
-When submitting a resource, please note the purpose of the resource (*what it is used for*), along with the title and link.
+### Hello Friends, and welcome to the resources folder. Here, our Meetup can share our favorite resources!
 
-Team Resources:
-- MachineLearningMastery.com: https://machinelearningmastery.com/start-here/
-  - Deep Learning: https://machinelearningmastery.com/start-here/#deeplearning
+**To contribute a resource:**
+- Navigate to the resource topic folder it belongs to (if it doesn't exist, create it!)
+- If it is a file, commit it inside its topic folder
+- If it is a snippet of text (like a link to a website), add it to the README.md file!
