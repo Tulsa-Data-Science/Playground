@@ -1,0 +1,30 @@
+
+Import cv, numpy, etc...
+
+get and load image.jpg
+
+find interesting real estate on the image.
+
+	loop and look and slice and test to find the dots
+
+	record the location of the dots
+	
+	test your locations to make sure you got em.
+		if (got dots) then I expect to see lines here and here
+			DO I have a line? 
+			Do I have a second line?
+ 		if (got lines) then set flag true
+ # alternativly
+ 		If I (got dots) I can transform as necessary to put the dots in a proper place
+ 			get the letters cause we know they are each in a box.
+ 			#this required a new form with more location marks - dots 
+ 			#see the NewForm folder in the TDS_Image_Proj folder
+
+if (got dots and flag) then
+	calculate the transform to get the lines square.
+	apply the transform
+	loop 24 times 
+		each itteration to get one of the images
+		output the images to a special folder and drink a beer. part one of n-1 parts done!!!
+		
+
